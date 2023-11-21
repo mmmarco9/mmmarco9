@@ -7,7 +7,7 @@
   <h2>Sobre mim</h2>
 
   <p>
-    Desenvolvedor de software com habilidades afiadas em HTML, CSS, JavaScript, ReactJS e NextJS. Sou especializado em resolver problemas, criar soluções robustas e colaborar efetivamente em equipe. Desde 2020, mergulho nos estudos de desenvolvimento, e desde 2021, contribuo ativamente para o mundo do software. Com quase 11 anos de experiência como técnico em informática, adquiri uma base sólida em solucionar questões técnicas. Atualmente, meu foco exclusivo está no desenvolvimento de software, e possuo uma habilidade aguçada para aprender rapidamente novas tecnologias.
+    Desenvolvedor de software com habilidades afiadas em ReactJS, NextJS, Typescript e Javascript. Sou especializado em resolver problemas, criar soluções robustas e colaborar efetivamente em equipe. Desde 2020, mergulho nos estudos de desenvolvimento. Com quase 11 anos de experiência como técnico em informática, adquiri uma base sólida em solucionar questões técnicas. Atualmente, meu foco exclusivo está no desenvolvimento de software, e possuo uma habilidade aguçada para aprender rapidamente novas tecnologias.
   </p>
 
 
