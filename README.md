@@ -16,7 +16,8 @@
 
   <p>
     <a href="https://github.com/seuusername">
-      <img src="https://github-readme-stats.vercel.app/api?username=mmmarco9&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+      <img src="https://github-readme-stats.vercel.app/api?username=mmmarco9&show_icons=true&theme=highcontrast" alt="Estatísticas do GitHub">
+
     </a>
   </p>
 
